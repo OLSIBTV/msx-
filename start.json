@@ -1,6 +1,6 @@
 {    
     "name": "OLSIB TV",
     "version": "1.0.0",
-    "parameter": "menu:http://link.to.menu",
+    "parameter": "menu:https://raw.githubusercontent.com/OLSIBTV/msx-/main/menu.json",
     "welcome": "content"
 }
